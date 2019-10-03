@@ -6,6 +6,7 @@ When you modified the template you need to add them to the spaces between the "|
 -->
 
 
-[<img src="https://avatars.githubusercontent.com/JISSJOHNSON" width="100px;"/><br /><sub><b> JISS JOHNSON </b></sub>]( https://github.com/JISSJOHNSON )|
+[<img src="https://avatars.githubusercontent.com/JISSJOHNSON" width="100px;"/><br /><sub><b> JISS JOHNSON </b></sub>]( https://github.com/JISSJOHNSON )|[<img src="https://avatars.githubusercontent.com/allenshaji" width="100px;"/><br /><sub><b> ALLEN SHAJI </b></sub>]( https://github.com/allenshaji )
 
 1. [Jiss Johnson](https://github.com/JISSJOHNSON)
+2. [Allen Shaji] (https://github.com/allenshaji)
