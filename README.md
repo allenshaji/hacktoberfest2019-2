@@ -5,8 +5,9 @@
 1. Fork this repository.
 2. Clone your forked repository to your local machine.
 3. Add your name in Contributors.md file.
-3.1 if you need to add your image got to Link (https://avatars.githubusercontent.com/<username>)
-4. Write these command on your terminal-
+4. 1. [Your Name](https://github.com/<username>)
+4. if you need to add your image got to [Link] (https://avatars.githubusercontent.com/github_username)
+5. Write these command on your terminal-
 ```
 git add -A
 git commit -m "your name"
